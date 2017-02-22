@@ -1,0 +1,19 @@
+			VERSION CONTROL SYSYTEM SETUP AND USAGE USING GIT
+
+	1--CREATING A REPOSITORY
+	   * first get into github account
+	   * clone the repository
+		eg:https://github.com/yadhukm/fosselab.git
+	   * create a folder anywhere in your local system
+	         eg:mkdir fosselab
+	   * then get into that folder
+		eg:cd fosselab
+	   * move or copy or edit the file in that directory
+		eg:nano hello.c
+	   *then adding this file
+		--git add hello.c
+	   * then pushing using the command
+		--git push origin master
+	 ---the file has been added or modified
+	2--CHECKING OUT A REPOSITORY
+
